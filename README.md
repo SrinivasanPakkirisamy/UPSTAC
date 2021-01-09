@@ -9,4 +9,8 @@ Implemented the below methods as required by the assignment
 4) assignForConsultation() in the ConsultationController
 5) updateConsultation() in the ConsultationController
 
+Sanity Testing through UI performed and working as expected
+
+UPSTAC_WEEK3_ASSIGNMENT.docx
+
 
