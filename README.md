@@ -22,6 +22,6 @@ Pls update the Database user name and password in application.properties
 Contact
 -------
 
-Pls reach out to srinivasan.apps@gmail.con for any clarifications or issues
+Pls reach out to srinivasan.apps@gmail.com for any clarifications or issues
 
 
